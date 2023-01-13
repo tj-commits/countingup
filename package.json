@@ -1,0 +1,19 @@
+{
+  "name": "countingup",
+  "version": "0.2.2",
+  "description": "Counter Class for JavaScrippt",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {},
+  "author": "Samuel Fox J.",
+  "license": "UNLICENSED",
+  "keywords": [
+    "math",
+    "js",
+    "utils",
+    "problems",
+    "calculations"
+  ]
+}
