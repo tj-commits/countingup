@@ -1,0 +1,27 @@
+{
+  "name": "countingup",
+  "version": "0.2.4",
+  "description": "Counter Class for JavaScrippt",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {},
+  "author": "Samuel Fox J.",
+  "license": "UNLICENSED",
+  "keywords": [
+    "math",
+    "js",
+    "utils",
+    "problems",
+    "calculations"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tj-commits/countingup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tj-commits/countingup/issues"
+  },
+  "homepage": "https://github.com/tj-commits/countingup#readme"
+}
