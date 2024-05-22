@@ -48,9 +48,9 @@ This allows you to change the direction so it counts down and subtracts
 myCounter.reset()
 myCounter.count(5)
 console.log(myCounter.getCurrentNumber()) // 5
-myCounter.count(5, countingup.DIRECTION.REVERSE) // 0
+myCounter.count(5, countingup.Counter.DIRECTION.REVERSE) // 0
 ```
-By default it will be forwards (countingup.DIRECTION.FORWARDS)
+By default it will be forwards (countingup.Counter.DIRECTION.FORWARDS)
 
 Customizing the Starting Number
 
